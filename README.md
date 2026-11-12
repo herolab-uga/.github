@@ -1,4 +1,3 @@
-# .github
 # HeRoLab — Heterogeneous Robotics Research Lab
 
 <p align="center">
