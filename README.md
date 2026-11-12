@@ -10,9 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://hero.uga.edu">🌐 Lab Website</a> •
-  <a href="https://github.com/herolab-uga">💻 GitHub</a> •
-  📚 Publications
+  <a href="https://hero.uga.edu"> Lab Website </a> •
+  <a href="https://github.com/herolab-uga"> GitHub </a> •
+  <a href="https://herolab.org/publications"> Publications </a> •
+
 </p>
 
 ---
